@@ -35,5 +35,14 @@ Roles of Accountant are
 
 Roles of Customer are
 • Login using his/her username and password
+
 • Transfer the money from his account to other account
+
 • Checking the transaction history
+
+
+
+
+Accountant Login
+ID=> saurabh
+PASSWORS => 1234
