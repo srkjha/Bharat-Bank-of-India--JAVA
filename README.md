@@ -6,11 +6,19 @@
 					<h1>Online Banking System</h1>
 
 Problem Description:
+
+
 The objective of this project is to maintain the accounts like saving account, withdrawing, depositing money and applying loan to the user. Bank provides account number to the customer for dealing transactions in the bank. At first a user registers himself/herself as customer. After that account can be opened. A customer can open more than one account.
 Users of this project are
+
+
 • Accountant
 • Customer
+
+
 Roles of Accountant are
+
+
 • Login using his/her username and password
 • Adding new account for customer
 • Editing already available account
