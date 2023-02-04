@@ -28,10 +28,12 @@ Roles of Accountant are
 • Removing the account by using account number
 
 • Viewing particular account details by giving account number
---
+
 • Viewing all the account details
 
 • Taking care of deposit and withdrawal operations
+
+
 
 Roles of Customer are
 • Login using his/her username and password
