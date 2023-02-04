@@ -1,9 +1,6 @@
 ![LogoSample_ByTailorBrands](https://user-images.githubusercontent.com/72140114/201530105-9af91fe9-e863-4404-8134-f0f15731e4f5.jpg)
 
-
-
-
-					# Online Banking System
+# Online Banking System
 
 # Bharat Bank of India.
 # Description :-
