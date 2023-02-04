@@ -24,6 +24,13 @@ The objective of this project is to maintain the accounts like saving account, w
 • Transfer the money from his account to other account</br>
 • Checking the transaction history</br>
 
+# SQL - Table:-</br>
+
+
+
+• For that You must to create 3 tables in your local machine to make this App works this are follows:-</br>
+![alt text](bbio.png)</br>
+
 
 
 <br>
